@@ -18,25 +18,34 @@
 # print(movies)
 
 #to check if list is palindrome or not
-check = []
+# check = []
 
-a = input("Enter the name of your first element:")
-b = input("Enter the name of your second element")
-c = input("Enter the name of your third element:")
-d = input("Enter the name of your fourth element:")
+# a = input("Enter the name of your first element:")
+# b = input("Enter the name of your second element")
+# c = input("Enter the name of your third element:")
+# d = input("Enter the name of your fourth element:")
 
-check.append(a)
-check.append(b)
-check.append(c)
-check.append(d)
+# check.append(a)
+# check.append(b)
+# check.append(c)
+# check.append(d)
 
-copy_list = check.copy()
+# copy_list = check.copy()
 # if (check == check[::-1]):
 #     print("the list is palindrome")
 # else:
 #     print("the list is not palindrome")
 
-if (check == copy_list):
-    print("the list is palindrome")
-else:
-    print("the list is not palindrome")
+# if (check == copy_list):
+#     print("the list is palindrome")
+# else:
+#     print("the list is not palindrome")
+
+
+# tup = ("c","d","a","a","b","b","a")
+
+# print("The no. of times it has occured is :" , tup.count("a"))
+
+list = ["d","b", "a", "c"]
+list.sort()
+print(list)
