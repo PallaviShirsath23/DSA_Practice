@@ -86,14 +86,34 @@
 #     print(idx)
 #     idx+=1
 
-nums =[1,4,9,16,25,36,49,64,81,100]
+# nums =[1,4,9,16,25,36,49,64,81,100]
 
-x = 64
-idx = 0
-for el in nums:
-    if (el ==x):
-        print ("found at index:", idx)
+# x = 64
+# idx = 0
+# for el in nums:
+#     if (el ==x):
+#         print ("found at index:", idx)
         
-        break
-    idx +=1
+#         break
+#     idx +=1 
     
+# for i in range (10):
+#     print(i)
+    
+# for i in range (2,10,2):
+#     print (i)
+    
+# for i in range (1,100,2):
+#     print(i)
+
+# for i in range (1,101,):
+#     print(i)
+
+# for i in range (100,0,-1):
+#     print(i)
+
+# n = int(input("Enter a number:"))
+
+# for i in range (1,11):
+#     print(i*n)
+
