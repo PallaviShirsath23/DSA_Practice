@@ -73,12 +73,25 @@
 
 #WAF to convert USD to INR.
 
-def conversion(USD):
-    INR_val = USD * 83
-    print(USD,"USD =", INR_val, "INR")
-    return INR_val
+# def conversion(USD):
+#     INR_val = USD * 83
+#     print(USD,"USD =", INR_val, "INR")
+#     return INR_val
 
-conversion(3)
+# conversion(3)
+
+
+#homework
+
+# def odd_even():
+#     num = int(input("Enter a number:"))
+#     if num % 2 == 0:
+#         print("The number is EVEN")
+#     else:
+#         print("The number is ODD")
+
+# odd_even()
+
 
 
 
