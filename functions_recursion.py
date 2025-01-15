@@ -47,10 +47,19 @@
 #     return length
 
 # lengthOfList(nums)
+  
+#WAF to print the elements of a list in a single line. ( list is the parameter)
 
 
 
+# def singleLine(list):
+#     for el in list :
+#         print(el, end =" ")
+         
+# singleLine([1,2,3,4,5,6,7,8,9])
     
+    
+  
 #WAF to find the factorial of n. (n is the parameter)
  
 
