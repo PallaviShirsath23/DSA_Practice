@@ -36,7 +36,22 @@
 
 # average()
 
+#WAF to print the length of the list
 
+# list = [1,2,3,4,5,6,7,8,9]
+# nums = [1,2,3,4,5,6,7,8,9]
+
+# def lengthOfList(list):
+#     length = len(nums)
+#     print("The length of the given list is :", length)
+#     return length
+
+# lengthOfList(nums)
+
+
+
+    
+#WAF to find the factorial of n. (n is the parameter)
  
 
 
