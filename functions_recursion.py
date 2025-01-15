@@ -58,11 +58,27 @@
          
 # singleLine([1,2,3,4,5,6,7,8,9])
     
-    
-  
+      
 #WAF to find the factorial of n. (n is the parameter)
- 
 
+# def factorial(n):
+#     fact = 1
+#     for i in range (1,n+1):
+#         fact *= i
+#     print("Factorial of a number is :", fact)     
+#     return fact
+     
+# factorial(5)
+
+
+#WAF to convert USD to INR.
+
+def conversion(USD):
+    INR_val = USD * 83
+    print(USD,"USD =", INR_val, "INR")
+    return INR_val
+
+conversion(3)
 
 
 
