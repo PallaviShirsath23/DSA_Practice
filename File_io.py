@@ -32,7 +32,33 @@
 # print(f.read())
 # f.close()
 
-f = open("demo.txt","w+")
-f.write("abc")
-print(f.read())
-f.close()
+# f = open("demo.txt","a+")
+# # f.write("abc")
+# print(f.read())
+# f.write("abc")
+# f.close() 
+
+# with open("demo.txt","r") as f:
+#     data = f.read()
+#     print(data)
+
+# with open("demo.txt","w") as f:
+#     f.write("this new")
+
+# import os
+# os.remove(sample.txt)
+
+# with open("sample.txt","w") as f:
+#     f.write("hi\ni am polu\ni am in 3rd year\ngood day")
+   
+# with open("sample.txt","r") as f:
+#     data = f.read()
+    
+# new_data = data.replace("am", "us") 
+# print(new_data)
+   
+# with open("sample.txt","w") as f:
+#     f.write(new_data)
+
+
+    
