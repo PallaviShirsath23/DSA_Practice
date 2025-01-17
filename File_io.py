@@ -61,4 +61,22 @@
 #     f.write(new_data)
 
 
+# def check_for_word():
+#     word = "pallavi"
+#     with open("sample.txt", "r") as f:
+#         data = f.read()
+#         if (data.find(word) != -1):
+#             print("found")
+#         else:
+#             print("NA")
+
+def check_for_line():
+    word = "pallavi"
+    with open("sample.txt", "r") as f:
+        data = f.read()
+        if (data.find(word) != -1):
+            print("found")
+        else:
+            print("NA")
+
     
