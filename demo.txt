@@ -1,2 +1,1 @@
-i am pallavi 
-i am learning python
+abc
