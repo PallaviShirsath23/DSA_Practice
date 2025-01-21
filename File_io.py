@@ -70,7 +70,7 @@
 #         else:
 #             print("NA")
 
-def check_for_line():
+def check_for_lin():
     word = "pallavi"
     with open("sample.txt", "r") as f:
         data = f.read()
